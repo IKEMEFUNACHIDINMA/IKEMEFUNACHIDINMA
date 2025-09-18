@@ -2,24 +2,20 @@
 
 Welcome to my GitHub profile! I'm passionate about software development, building innovative solutions, and learning new technologies.
 
-## 🚀 About Me
-
-- 💻 I love working on web development and APIs
-- 🌱 Currently learning: Advanced JavaScript, TypeScript, and cloud deployment
-- 👯 I’m open to collaborating on exciting projects
-- 💬 Ask me about Java, Python, JavaScript, or API design
-- 📫 How to reach me: ikemefunachidinma123@gmail.com or www.linkedin.com/in/ikemefuna-chidinma
-
-## 🛠️ Skills
-
-- **Languages:** Python, JavaScript (ES6+), TypeScript, HTML, CSS
-- **Frameworks:** React, Node.js, Express, Django
-- **Tools:** Git, Docker, Postman
-- **Databases:** MongoDB, MySQL
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IKEMEFUNACHIDINMA&show_icons=true&hide_title=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Software+Developer+💻;BackEnd+Developer+🤖;FrontEnd+Developer+🎨)](https://git.io/typing-svg)
+
+![Software Developer](https://img.shields.io/badge/Software_Developer-💻-blue?style=for-the-badge&logo=github)
+![Backend Developer](https://img.shields.io/badge/Backend_Developer-🤖-purple?style=for-the-badge&logo=github)
+![FrontEnd Developer](https://img.shields.io/badge/FrontEnd_Developer-🎨-green?style=for-the-badge&logo=github)
+![FullStack Developer](https://img.shields.io/badge/FullStack_Developer-⚙️-red?style=for-the-badge&logo=github)
+
+## 🚀 About Me
+
+- ❤️ I love working on web development and APIs
+- 👯 I’m open to collaborating on exciting projects
+- 📫 How to reach me: ikemefunachidinma123@gmail.com or www.linkedin.com/in/ikemefuna-chidinma
 
 ## 🌟 Featured Projects
 
