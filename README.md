@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about software development, buildin
 ## 📫 Connect with Me
 
 - [LinkedIn] www.linkedin.com/in/ikemefuna-chidinma
-- [Email]: ikemefunachidinma123@gmail.com
+- Email: ikemefunachidinma123@gmail.com
 
 ---
 
