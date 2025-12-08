@@ -19,11 +19,11 @@ Welcome to my GitHub profile! I'm passionate about software development, buildin
 
 ## 🌟 Featured Projects
 
+- [Nashacal-Website](https://nashacal-website.onrender.com) - Friendy Informative website for Nashacal Book and Toys store
 - [CodeAlpha ToDoList](https://github.com/IKEMEFUNACHIDINMA/CodeAlpha_ToDoList) – A simple and elegant ToDo List app.
 - [RealEstateApis](https://github.com/IKEMEFUNACHIDINMA/RealEstateApis) – APIs for real estate applications.
 - [E-commerce-API](https://github.com/DevGloriaa/E-commerce-API) – Backend API for e-commerce platforms.
-- [Nashacal-Website](https://nashacal-website.onrender.com) - Friendy Informative website for Nashacal Book and Toys store
-
+  
 ## 📫 Connect with Me
 
 - [LinkedIn] www.linkedin.com/in/ikemefuna-chidinma
