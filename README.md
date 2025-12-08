@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about software development, buildin
 - 📫 How to reach me: ikemefunachidinma123@gmail.com or www.linkedin.com/in/ikemefuna-chidinma
 
 ## 🌟 Featured Projects
-
+- [Gemini_LLM_Query_Website](https://github.com/IKEMEFUNACHIDINMA/LLM_AQ_PROJECT_IKEMEFUNA_23CD034337.git) - Web App that integrates with Gemini API for easy questioning and answers 
 - [Nashacal-Website](https://nashacal-website.onrender.com) - Friendy Informative website for Nashacal Book and Toys store
 - [CodeAlpha ToDoList](https://github.com/IKEMEFUNACHIDINMA/CodeAlpha_ToDoList) – A simple and elegant ToDo List app.
 - [RealEstateApis](https://github.com/IKEMEFUNACHIDINMA/RealEstateApis) – APIs for real estate applications.
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about software development, buildin
 ## 📫 Connect with Me
 
 - [LinkedIn] www.linkedin.com/in/ikemefuna-chidinma
-- Email: ikemefunachidinma123@gmail.com
+- [Email]: ikemefunachidinma123@gmail.com
 
 ---
 
